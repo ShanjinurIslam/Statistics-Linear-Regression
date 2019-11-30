@@ -1,7 +1,0 @@
-Mean: 290.196996
-Median: 270.745052
-Range: 687.328423
-Standard Deviation: 209.162817
-Best fit line : y = 629.231633 x + -56.494812
-Differenciation of fit line : 629.231633
-Integration of best fit line : y = 314.615817 x2 + x*-56.494812
